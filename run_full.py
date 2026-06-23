@@ -21,7 +21,7 @@ def run_model(model_name):
         wrapper = LLaVAWrapper(quantize=False)
     elif model_name == "internvl2":
         from internvl_wrapper import InternVLWrapper
-        wrapper = InternVLWrapper(max_num=12)
+        wrapper = InternVLWrapper(max_num=12, quantize=False)
     else:
         print(f"Unknown model: {model_name}")
         sys.exit(1)

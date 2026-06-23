@@ -54,7 +54,7 @@ if __name__ == "__main__":
         wrapper = LLaVAWrapper(quantize=True)
     elif model_name == "internvl2":
         from internvl_wrapper import InternVLWrapper
-        wrapper = InternVLWrapper(max_num=6)
+        wrapper = InternVLWrapper(max_num=6, quantize=True)
     else:
         print(f"Unknown model: {model_name}")
         sys.exit(1)

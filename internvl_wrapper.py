@@ -104,15 +104,17 @@ def load_image(image, input_size=448, max_num=12):
 
 
 class InternVLWrapper:
-    def __init__(self, model_path="OpenGVLab/InternVL2-8B", device="cuda", max_num=12):
-        self.model = AutoModel.from_pretrained(
-    model_path,
-    torch_dtype=torch.bfloat16,
-    load_in_4bit=True,
-    low_cpu_mem_usage=True,
-    trust_remote_code=True,
-    device_map="auto",
-).eval()
+    def __init__(self, model_path="OpenGVLab/InternVL2-8B", device="cuda", max_num=12,
+                 quantize=False):
+        load_kwargs = dict(
+            torch_dtype=torch.bfloat16,
+            low_cpu_mem_usage=True,
+            trust_remote_code=True,
+            device_map="auto",
+        )
+        if quantize:
+            load_kwargs["load_in_4bit"] = True
+        self.model = AutoModel.from_pretrained(model_path, **load_kwargs).eval()
         self.tokenizer = AutoTokenizer.from_pretrained(
             model_path, trust_remote_code=True, use_fast=False
         )
