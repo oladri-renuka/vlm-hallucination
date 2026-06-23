@@ -1,0 +1,2258 @@
+[
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20356.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for white papers?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20356.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "11",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20356.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2016 for e-books/whitepapers?",
+    "ground_truth": "36%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20356.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_660.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for china?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_660.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for north america?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_660.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "6",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_660.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2015 for china?",
+    "ground_truth": "79.3",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_660.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2018 higher for others than for taiwan?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_660.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents others in this chart?",
+    "ground_truth": "orange",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_660.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101255.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for spanish-language*?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101255.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for united states?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101255.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101255.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2010 for international?",
+    "ground_truth": "21",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101255.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2004 higher for spanish-language* than for international?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101255.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents international in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101255.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40809.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for smartwatch?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40809.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for wearable camera?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40809.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40809.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2015* for health & fitness tracker?",
+    "ground_truth": "0.6",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40809.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2014 higher for smartwatch than for health & fitness tracker?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40809.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents health & fitness tracker in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40809.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40525.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for construction start-ups?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40525.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40525.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2008 for construction start-ups?",
+    "ground_truth": "38.6",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40525.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2008 higher for construction start-ups than for health care and social assistance start-ups?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40525.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents construction start-ups in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40525.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20549.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for total market?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20549.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for total market*?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20549.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20549.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2011 for total market?",
+    "ground_truth": "117",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20549.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2017* higher for total market than for domestic market?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20549.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents domestic market in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20549.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80767.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for may?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80767.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for july?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80767.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "12",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80767.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2016 for jun?",
+    "ground_truth": "125.44",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80767.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2015 higher for jan than for nov?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80767.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40592.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for part-time?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40592.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40592.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2013 for all-employees?",
+    "ground_truth": "19.8%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40592.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2006 higher for all-employees than for part-time?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40592.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents part-time in this chart?",
+    "ground_truth": "gray",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40592.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80344.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for services?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80344.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for agriculture?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80344.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80344.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2022* for services?",
+    "ground_truth": "1410",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80344.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2022* higher for services than for products?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80344.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100259.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for mail?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100259.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100259.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2017 for scheduled freight?",
+    "ground_truth": "239.44",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100259.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2009 higher for scheduled freight than for charter freight?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100259.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents mail in this chart?",
+    "ground_truth": "gray",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100259.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_291.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for public?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_291.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for public*?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_291.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_291.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2015 for public?",
+    "ground_truth": "152",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_291.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2017 higher for public than for private?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_291.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents private in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_291.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60273.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for storage?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60273.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for europe?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60273.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "5",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60273.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2018 for virtual pv?",
+    "ground_truth": "24145",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60273.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2016 higher for other than for storage?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60273.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents photovoltaic in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60273.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_101070.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for 0-14 years?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_101070.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for 65 years +?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_101070.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_101070.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2010 for 15-64 years?",
+    "ground_truth": "53.52%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_101070.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2010 higher for 65 years and older than for 15-64 years?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_101070.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents 0-14 years in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_101070.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60364.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for average gdp growth - pessimistic scenario?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60364.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "8",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60364.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2020 for nbp reference rate - pessimistic scenario?",
+    "ground_truth": "0%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60364.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2020 higher for average gdp growth - optimistic scenario than for nbp reference rate - optimistic scenario?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60364.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20488.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for emea?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20488.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for europe?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20488.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "4",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20488.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2016 for americas?",
+    "ground_truth": "73.4%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20488.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2015 higher for asia pacific than for americas?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20488.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents americas in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20488.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100786.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for 0-14 years?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100786.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for 65 years +?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100786.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100786.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2015 for 0-14 years?",
+    "ground_truth": "47.95%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100786.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2019 higher for 0-14 years than for 65 years and older?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100786.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents 65 years and older in this chart?",
+    "ground_truth": "gray",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100786.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60960.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for e-commerce?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60960.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for male?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60960.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60960.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2016 for total?",
+    "ground_truth": "830.0",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60960.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2010 higher for e-commerce than for total?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60960.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents total in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60960.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20940.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for female?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20940.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for total?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20940.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20940.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2015 for female?",
+    "ground_truth": "31%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20940.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2015 higher for male than for female?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20940.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents male in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20940.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20612.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for non-cloud traffic?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20612.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20612.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2015* for non-cloud traffic?",
+    "ground_truth": "17%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20612.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2019* higher for non-cloud traffic than for cloud traffic?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20612.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents cloud traffic in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_20612.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1356.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for 25-34?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1356.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for 16-24?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1356.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "9",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1356.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2016 for 35-44?",
+    "ground_truth": "9106434",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1356.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2016 higher for 55-64 than for 14-17?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1356.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100670.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for female?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100670.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for total?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100670.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100670.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2016 for female?",
+    "ground_truth": "39.49",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100670.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2010 higher for male than for female?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100670.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents female in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100670.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20089.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for services?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20089.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for agriculture?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20089.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20089.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2020* for software?",
+    "ground_truth": "20",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20089.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2018* higher for hardware than for software?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20089.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents hardware in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20089.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40260.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for twitter?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40260.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for whatsapp?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40260.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "8",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40260.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2015 for instagram?",
+    "ground_truth": "11%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40260.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2013 higher for youtube than for google+?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_40260.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100551.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for iodine and derivatives?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100551.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for europe?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100551.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "6",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100551.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2015 for iodine and derivatives?",
+    "ground_truth": "15%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100551.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2019 higher for lithium and derivatives than for iodine and derivatives?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100551.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101283.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for commercial sector?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101283.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "4",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101283.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2000 for electric power sector?",
+    "ground_truth": "20220",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101283.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2008 higher for industrial sector than for residential sector?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101283.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents industrial sector in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_101283.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1501.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for services?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1501.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for industry?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1501.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1501.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2010 for manufacturing?",
+    "ground_truth": "218.42",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1501.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2016 higher for services than for agriculture?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1501.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents agriculture in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_1501.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80982.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for fertilizers?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80982.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "5",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80982.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2000 for consumer chemicals?",
+    "ground_truth": "0.27",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80982.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2030* higher for bulk chemicals than for fertilizers?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80982.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100736.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for \u00a37 - \u00a37.99?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100736.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for up to \u00a31.99?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100736.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "14",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100736.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2012 for \u00a37 - \u00a37.99?",
+    "ground_truth": "11.2%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100736.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2011 higher for \u00a310 - \u00a310.99 than for \u00a34 - \u00a34.99?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100736.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80527.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for by employers*?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80527.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80527.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2019 for by employers*?",
+    "ground_truth": "15",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80527.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2016 higher for by uninsured people than for by employers*?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80527.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents by employers* in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80527.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80794.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for swedish origin?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80794.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80794.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2018 for foreign background?",
+    "ground_truth": "2.54",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80794.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2013 higher for foreign background than for swedish origin?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80794.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents foreign background in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80794.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20613.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for q3?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20613.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "4",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20613.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2017 for q2?",
+    "ground_truth": "-",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20613.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80834.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for approval of democracy in lithuania?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80834.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "6",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80834.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 1991 for approval of capitalism in ukraine?",
+    "ground_truth": "52%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80834.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 1991 higher for approval of democracy in russia than for approval of capitalism in lithuania?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80834.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_351.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for middle east?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_351.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for latin america?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_351.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "7",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_351.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2013 for north america?",
+    "ground_truth": "6266.5",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_351.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2010 higher for asia pacific than for middle east?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_351.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents asia pacific in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_351.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80875.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for female?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80875.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for total?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80875.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80875.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2012 for female?",
+    "ground_truth": "6.41",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80875.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2019 higher for female than for male?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80875.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents female in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80875.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_826.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for worldwide?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_826.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for canada?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_826.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_826.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2011 for worldwide?",
+    "ground_truth": "79880028",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_826.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2014 higher for worldwide than for united states?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_826.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents worldwide in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_826.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80976.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for chickpeas?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80976.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80976.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2016 for lentils?",
+    "ground_truth": "0.9",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80976.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2019 higher for beans than for lentils?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80976.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_40743.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for high income?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_40743.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "4",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_40743.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 1990 for high income?",
+    "ground_truth": "75",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_40743.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2013 higher for high income than for low income?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/val/tables/multi_col_40743.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_100289.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for male?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_100289.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for total?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_100289.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_100289.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2017 for female?",
+    "ground_truth": "83.27",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_100289.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2015 higher for male than for female?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_100289.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents male in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/test/tables/multi_col_100289.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20938.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for other?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20938.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for europe?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20938.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "4",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20938.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2018* for sky?",
+    "ground_truth": "33%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20938.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2016 higher for mediaset than for sky?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20938.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents mediaset in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20938.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_686.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for q4?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_686.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "4",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_686.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2016 for q1?",
+    "ground_truth": "171",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_686.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2016 higher for q4 than for q3?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_686.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60861.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for other?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60861.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for europe?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60861.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "6",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60861.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2013 for other?",
+    "ground_truth": "0%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60861.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2017 higher for convenience food and kitchen products than for chocolate and sweets?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60861.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents other in this chart?",
+    "ground_truth": "orange",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_60861.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80757.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for imports?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80757.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for trade balance?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80757.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80757.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2009 for exports?",
+    "ground_truth": "1.07",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80757.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2008 higher for exports than for imports?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80757.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents exports in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_80757.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_758.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for agriculture?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_758.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for manufacturing?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_758.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_758.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2013 for industry?",
+    "ground_truth": "23.95%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_758.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2015 higher for services than for agriculture?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_758.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents services in this chart?",
+    "ground_truth": "gray",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_758.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20013.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for other products?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20013.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "7",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20013.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2040 for naphtha?",
+    "ground_truth": "8.0",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20013.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2020 higher for ethane/lpg than for other products?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20013.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents gasoline in this chart?",
+    "ground_truth": "gray",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_20013.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100706.csv",
+    "domain": "chart",
+    "category": "existence",
+    "question": "Does this chart include a category for yes?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100706.csv",
+    "domain": "chart",
+    "category": "count",
+    "question": "How many distinct categories are shown in this chart?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100706.csv",
+    "domain": "chart",
+    "category": "ocr_numeric",
+    "question": "What is the value of 2014 for yes?",
+    "ground_truth": "78%",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100706.csv",
+    "domain": "chart",
+    "category": "spatial",
+    "question": "Is the value of 2011 higher for yes than for no?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100706.csv",
+    "domain": "chart",
+    "category": "attribute",
+    "question": "What color represents yes in this chart?",
+    "ground_truth": "blue",
+    "distractor_type": null
+  },
+  {
+    "image_id": "ChartQA Dataset/train/tables/multi_col_100706.csv",
+    "domain": "chart",
+    "category": "confabulation",
+    "question": "Describe what this chart shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  }
+]

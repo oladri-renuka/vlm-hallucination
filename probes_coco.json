@@ -1,0 +1,1898 @@
+[
+  {
+    "image_id": 166391,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a truck in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 166391,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 166391,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many traffic light(s) are in this image?",
+    "ground_truth": "12",
+    "distractor_type": null
+  },
+  {
+    "image_id": 166391,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the traffic light to the left of the truck?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 166391,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 114770,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a airplane in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 114770,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 114770,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many motorcycle(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 114770,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the airplane to the right of the motorcycle?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 114770,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 308328,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a truck in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 308328,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a car in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 308328,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many suitcase(s) are in this image?",
+    "ground_truth": "13",
+    "distractor_type": null
+  },
+  {
+    "image_id": 308328,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the truck to the right of the person?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 308328,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 61418,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a boat in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 61418,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a dining table in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 61418,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many boat(s) are in this image?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": 61418,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the boat to the right of the person?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 61418,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 345261,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a giraffe in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 345261,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 345261,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many giraffe(s) are in this image?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": 345261,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 241326,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a dog in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 241326,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 241326,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many couch(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 241326,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the cat to the left of the couch?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 241326,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 143931,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 143931,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a car in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 143931,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many bus(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 143931,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the right of the bus?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 143931,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 351331,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a pizza in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 351331,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 351331,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many pizza(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 351331,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the fork to the right of the pizza?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 351331,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 456394,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a motorcycle in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 456394,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 456394,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many car(s) are in this image?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": 456394,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the car to the left of the motorcycle?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 456394,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 384136,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a hair drier in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 384136,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 384136,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many person(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 384136,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the hair drier to the right of the person?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 384136,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 299355,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a broccoli in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 299355,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a bowl in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 299355,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many broccoli(s) are in this image?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": 299355,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 185802,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a umbrella in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 185802,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 185802,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many umbrella(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 185802,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the banana to the right of the chair?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 185802,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 200839,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 200839,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a car in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 200839,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many person(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 200839,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the bus to the right of the book?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 200839,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 196185,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a airplane in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 196185,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 196185,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many airplane(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 196185,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 280325,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a parking meter in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 280325,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a car in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 280325,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many parking meter(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 280325,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 89880,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a dog in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 89880,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 89880,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many dog(s) are in this image?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": 89880,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 20553,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a bottle in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 20553,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 20553,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many dining table(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 20553,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the teddy bear to the left of the vase?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 20553,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 50844,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a teddy bear in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 50844,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 50844,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many teddy bear(s) are in this image?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": 50844,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 461751,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 461751,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a handbag in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 461751,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many backpack(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 461751,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the car to the right of the motorcycle?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 461751,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 560911,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a suitcase in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 560911,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 560911,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many couch(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 560911,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the couch to the right of the suitcase?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 560911,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 460229,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a truck in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 460229,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a car in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 460229,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many stop sign(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 460229,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the truck to the right of the traffic light?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 460229,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 533816,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a tennis racket in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 533816,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 533816,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many person(s) are in this image?",
+    "ground_truth": "13",
+    "distractor_type": null
+  },
+  {
+    "image_id": 533816,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the right of the tennis racket?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 533816,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 7991,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a knife in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 7991,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a dining table in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 7991,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many carrot(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 7991,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the carrot to the right of the knife?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 7991,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 29397,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 29397,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 29397,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many bench(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 29397,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the right of the bench?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 29397,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 88970,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a sports ball in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 88970,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 88970,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many tennis racket(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 88970,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the sports ball to the left of the tennis racket?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 88970,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 85089,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a wine glass in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 85089,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 85089,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many wine glass(s) are in this image?",
+    "ground_truth": "4",
+    "distractor_type": null
+  },
+  {
+    "image_id": 85089,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the right of the wine glass?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 85089,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 21903,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a elephant in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 21903,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 21903,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many person(s) are in this image?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": 21903,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the elephant to the left of the person?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 21903,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 70774,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a bird in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 70774,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 70774,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many bicycle(s) are in this image?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": 70774,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the bicycle to the right of the motorcycle?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 70774,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 271728,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a couch in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 271728,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 271728,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many cup(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 271728,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the cup to the right of the cat?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 271728,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 125245,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a broccoli in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 125245,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a bowl in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 125245,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many broccoli(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 125245,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 447313,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a zebra in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 447313,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a giraffe in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 447313,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many zebra(s) are in this image?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": 447313,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 210388,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a suitcase in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 210388,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 210388,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many person(s) are in this image?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": 210388,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the right of the suitcase?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 210388,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 261706,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a couch in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 261706,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 261706,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many cat(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 261706,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the couch to the right of the remote?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 261706,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 154000,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a truck in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 154000,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 154000,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many truck(s) are in this image?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": 154000,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 272566,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a cup in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 272566,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 272566,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many cup(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 272566,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the banana to the right of the cup?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 272566,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 333402,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 333402,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a car in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 333402,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many person(s) are in this image?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": 333402,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the bus to the left of the person?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 333402,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 208208,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a airplane in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 208208,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 208208,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many airplane(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 208208,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 45550,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a sandwich in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 45550,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 45550,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many sandwich(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 45550,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the clock to the left of the sandwich?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 45550,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 477441,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a airplane in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 477441,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 477441,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many airplane(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 477441,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the airplane to the right of the person?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 477441,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 185599,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a apple in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 185599,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a bowl in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 185599,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many apple(s) are in this image?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": 185599,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the apple to the left of the orange?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 185599,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 110211,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a zebra in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 110211,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a giraffe in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 110211,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many zebra(s) are in this image?",
+    "ground_truth": "5",
+    "distractor_type": null
+  },
+  {
+    "image_id": 110211,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 500716,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a scissors in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 500716,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 500716,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many scissors(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 500716,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the right of the scissors?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 500716,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 257896,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a tie in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 257896,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 257896,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many tie(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 257896,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the right of the tie?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 257896,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 211825,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 211825,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 211825,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many person(s) are in this image?",
+    "ground_truth": "2",
+    "distractor_type": null
+  },
+  {
+    "image_id": 211825,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the book to the right of the cake?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 211825,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 518326,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 518326,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 518326,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many bed(s) are in this image?",
+    "ground_truth": "3",
+    "distractor_type": null
+  },
+  {
+    "image_id": 518326,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the bed to the right of the person?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 518326,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 263679,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 263679,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a chair in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 263679,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many person(s) are in this image?",
+    "ground_truth": "4",
+    "distractor_type": null
+  },
+  {
+    "image_id": 263679,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the kite to the right of the person?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 263679,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 271457,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a bench in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 271457,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 271457,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many bench(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 271457,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 175535,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a bowl in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 175535,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 175535,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many knife(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 175535,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the sandwich to the left of the dining table?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 175535,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 490936,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a traffic light in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 490936,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a handbag in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 490936,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many fire hydrant(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 490936,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the truck to the right of the traffic light?",
+    "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 490936,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 106330,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a teddy bear in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "positive"
+  },
+  {
+    "image_id": 106330,
+    "domain": "natural",
+    "category": "existence",
+    "question": "Is there a person in this image?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial"
+  },
+  {
+    "image_id": 106330,
+    "domain": "natural",
+    "category": "count",
+    "question": "How many teddy bear(s) are in this image?",
+    "ground_truth": "1",
+    "distractor_type": null
+  },
+  {
+    "image_id": 106330,
+    "domain": "natural",
+    "category": "confabulation",
+    "question": "Describe what is happening in this image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  }
+]

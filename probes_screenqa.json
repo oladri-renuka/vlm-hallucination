@@ -1,0 +1,1325 @@
+[
+  {
+    "image_id": "59864",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'wed, 01 feb'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/59864.jpg"
+  },
+  {
+    "image_id": "59864",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '07:08 pm'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/59864.jpg"
+  },
+  {
+    "image_id": "59864",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/59864.jpg"
+  },
+  {
+    "image_id": "9910",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'tornado'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/9910.jpg"
+  },
+  {
+    "image_id": "9910",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'bookmarks'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/9910.jpg"
+  },
+  {
+    "image_id": "9910",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/9910.jpg"
+  },
+  {
+    "image_id": "2326",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'females'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/2326.jpg"
+  },
+  {
+    "image_id": "2326",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'champaign, il 61820'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/2326.jpg"
+  },
+  {
+    "image_id": "2326",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element '100 miles' to the left of the element 'urbana,'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/2326.jpg"
+  },
+  {
+    "image_id": "2326",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/2326.jpg"
+  },
+  {
+    "image_id": "69585",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '(0)'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/69585.jpg"
+  },
+  {
+    "image_id": "69585",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'promotions'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/69585.jpg"
+  },
+  {
+    "image_id": "69585",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/69585.jpg"
+  },
+  {
+    "image_id": "25635",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'no'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/25635.jpg"
+  },
+  {
+    "image_id": "25635",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'favorites'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/25635.jpg"
+  },
+  {
+    "image_id": "25635",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/25635.jpg"
+  },
+  {
+    "image_id": "22669",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '20:15'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/22669.jpg"
+  },
+  {
+    "image_id": "22669",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'aachen'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/22669.jpg"
+  },
+  {
+    "image_id": "22669",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element '\u00a396.80' to the right of the element '18:55'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/22669.jpg"
+  },
+  {
+    "image_id": "22669",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/22669.jpg"
+  },
+  {
+    "image_id": "20458",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'two'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/20458.jpg"
+  },
+  {
+    "image_id": "20458",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'lose weight'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/20458.jpg"
+  },
+  {
+    "image_id": "20458",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'end of march.' to the left of the element 'two'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/20458.jpg"
+  },
+  {
+    "image_id": "20458",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/20458.jpg"
+  },
+  {
+    "image_id": "12577",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'version: 3.1.1'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/12577.jpg"
+  },
+  {
+    "image_id": "12577",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'petrol'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/12577.jpg"
+  },
+  {
+    "image_id": "12577",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'wine-searcher' to the right of the element 'us dollar (usd)'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/12577.jpg"
+  },
+  {
+    "image_id": "12577",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/12577.jpg"
+  },
+  {
+    "image_id": "69110",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '00:00'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/69110.jpg"
+  },
+  {
+    "image_id": "69110",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'on'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/69110.jpg"
+  },
+  {
+    "image_id": "69110",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element '0kb' to the right of the element '00:00'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/69110.jpg"
+  },
+  {
+    "image_id": "69110",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/69110.jpg"
+  },
+  {
+    "image_id": "9121",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '1:29 am'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/9121.jpg"
+  },
+  {
+    "image_id": "9121",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '3:39 pm'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/9121.jpg"
+  },
+  {
+    "image_id": "9121",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'sehun_exo' to the left of the element '1:29 am'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/9121.jpg"
+  },
+  {
+    "image_id": "9121",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/9121.jpg"
+  },
+  {
+    "image_id": "63458",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'games'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/63458.jpg"
+  },
+  {
+    "image_id": "63458",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'dec 09, 2016'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/63458.jpg"
+  },
+  {
+    "image_id": "63458",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'games' to the left of the element 'gracechan'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/63458.jpg"
+  },
+  {
+    "image_id": "63458",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/63458.jpg"
+  },
+  {
+    "image_id": "69510",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'e-mail'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/69510.jpg"
+  },
+  {
+    "image_id": "69510",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'android beam'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/69510.jpg"
+  },
+  {
+    "image_id": "69510",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'e-mail' to the left of the element 'facebook'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/69510.jpg"
+  },
+  {
+    "image_id": "69510",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/69510.jpg"
+  },
+  {
+    "image_id": "50664",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'monday'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/50664.jpg"
+  },
+  {
+    "image_id": "50664",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'friday'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/50664.jpg"
+  },
+  {
+    "image_id": "50664",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'time' to the right of the element 'monday'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/50664.jpg"
+  },
+  {
+    "image_id": "50664",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/50664.jpg"
+  },
+  {
+    "image_id": "7673",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'speedgauge'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/7673.jpg"
+  },
+  {
+    "image_id": "7673",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/7673.jpg"
+  },
+  {
+    "image_id": "55060",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'brown'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/55060.jpg"
+  },
+  {
+    "image_id": "55060",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'off'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/55060.jpg"
+  },
+  {
+    "image_id": "55060",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'amex_cvm' to the right of the element 'brown'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/55060.jpg"
+  },
+  {
+    "image_id": "55060",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/55060.jpg"
+  },
+  {
+    "image_id": "39189",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'shows'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/39189.jpg"
+  },
+  {
+    "image_id": "39189",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'news'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/39189.jpg"
+  },
+  {
+    "image_id": "39189",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'entertainment' to the left of the element 'sports'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/39189.jpg"
+  },
+  {
+    "image_id": "39189",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/39189.jpg"
+  },
+  {
+    "image_id": "2970",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'wait times for disneyland'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/2970.jpg"
+  },
+  {
+    "image_id": "2970",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/2970.jpg"
+  },
+  {
+    "image_id": "2771",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'classdojo'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/2771.jpg"
+  },
+  {
+    "image_id": "2771",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'password'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/2771.jpg"
+  },
+  {
+    "image_id": "2771",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/2771.jpg"
+  },
+  {
+    "image_id": "8343",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'jan 29'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/8343.jpg"
+  },
+  {
+    "image_id": "8343",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'toaster strudel'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/8343.jpg"
+  },
+  {
+    "image_id": "8343",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/8343.jpg"
+  },
+  {
+    "image_id": "20025",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'snitch'n'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/20025.jpg"
+  },
+  {
+    "image_id": "20025",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'snitch'n' to the left of the element 'wilson, j'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/20025.jpg"
+  },
+  {
+    "image_id": "20025",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/20025.jpg"
+  },
+  {
+    "image_id": "21460",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'dec 22, 9:00 am \u2013 dec 23, 6:00 pm'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/21460.jpg"
+  },
+  {
+    "image_id": "21460",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'dec 22, 9:00 am - dec 23, 6:00 pm'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/21460.jpg"
+  },
+  {
+    "image_id": "21460",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'dec 22, 9:00 am \u2013 dec 23, 6:00 pm' to the left of the element 'san francisco (and vicinity), california'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/21460.jpg"
+  },
+  {
+    "image_id": "21460",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/21460.jpg"
+  },
+  {
+    "image_id": "47137",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'audio series'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/47137.jpg"
+  },
+  {
+    "image_id": "47137",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'philips arena'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/47137.jpg"
+  },
+  {
+    "image_id": "47137",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'details' to the left of the element 'audio series'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/47137.jpg"
+  },
+  {
+    "image_id": "47137",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/47137.jpg"
+  },
+  {
+    "image_id": "56289",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'profile'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/56289.jpg"
+  },
+  {
+    "image_id": "56289",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'brown'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/56289.jpg"
+  },
+  {
+    "image_id": "56289",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/56289.jpg"
+  },
+  {
+    "image_id": "2479",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'discount calculator'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/2479.jpg"
+  },
+  {
+    "image_id": "2479",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/2479.jpg"
+  },
+  {
+    "image_id": "52071",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '1/2 tablespoon'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/52071.jpg"
+  },
+  {
+    "image_id": "52071",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/52071.jpg"
+  },
+  {
+    "image_id": "18195",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'december 1'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/18195.jpg"
+  },
+  {
+    "image_id": "18195",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'kate beckinsale'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/18195.jpg"
+  },
+  {
+    "image_id": "18195",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'december 1' to the right of the element 'action, horror'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/18195.jpg"
+  },
+  {
+    "image_id": "18195",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/18195.jpg"
+  },
+  {
+    "image_id": "67043",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'smith'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/67043.jpg"
+  },
+  {
+    "image_id": "67043",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'female'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/67043.jpg"
+  },
+  {
+    "image_id": "67043",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'aland islands' to the right of the element '+358'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/67043.jpg"
+  },
+  {
+    "image_id": "67043",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/67043.jpg"
+  },
+  {
+    "image_id": "60917",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '1 hour.'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/60917.jpg"
+  },
+  {
+    "image_id": "60917",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/60917.jpg"
+  },
+  {
+    "image_id": "65754",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'craftsvilla'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/65754.jpg"
+  },
+  {
+    "image_id": "65754",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '2 mb/s'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/65754.jpg"
+  },
+  {
+    "image_id": "65754",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'craftsvilla' to the right of the element 'home'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/65754.jpg"
+  },
+  {
+    "image_id": "65754",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/65754.jpg"
+  },
+  {
+    "image_id": "50626",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'use gps location'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/50626.jpg"
+  },
+  {
+    "image_id": "50626",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'enter location' to the right of the element 'use gps location'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/50626.jpg"
+  },
+  {
+    "image_id": "50626",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/50626.jpg"
+  },
+  {
+    "image_id": "38990",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'first name'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/38990.jpg"
+  },
+  {
+    "image_id": "38990",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'on'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/38990.jpg"
+  },
+  {
+    "image_id": "38990",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'first name first' to the right of the element 'first name'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/38990.jpg"
+  },
+  {
+    "image_id": "38990",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/38990.jpg"
+  },
+  {
+    "image_id": "20253",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '56\u00b0'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/20253.jpg"
+  },
+  {
+    "image_id": "20253",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '60\u00b0'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/20253.jpg"
+  },
+  {
+    "image_id": "20253",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/20253.jpg"
+  },
+  {
+    "image_id": "41758",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'android beam'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/41758.jpg"
+  },
+  {
+    "image_id": "41758",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'fake gps - search location'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/41758.jpg"
+  },
+  {
+    "image_id": "41758",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'android beam' to the left of the element 'messaging'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/41758.jpg"
+  },
+  {
+    "image_id": "41758",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/41758.jpg"
+  },
+  {
+    "image_id": "54964",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'abmusic'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/54964.jpg"
+  },
+  {
+    "image_id": "54964",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/54964.jpg"
+  },
+  {
+    "image_id": "25948",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'sign in'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/25948.jpg"
+  },
+  {
+    "image_id": "25948",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'on'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/25948.jpg"
+  },
+  {
+    "image_id": "25948",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'off' to the right of the element 'sign in'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/25948.jpg"
+  },
+  {
+    "image_id": "25948",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/25948.jpg"
+  },
+  {
+    "image_id": "513",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'on'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/513.jpg"
+  },
+  {
+    "image_id": "513",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'off'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/513.jpg"
+  },
+  {
+    "image_id": "513",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'databot' to the right of the element 'droid'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/513.jpg"
+  },
+  {
+    "image_id": "513",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/513.jpg"
+  },
+  {
+    "image_id": "71273",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'trocando seu celular'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/71273.jpg"
+  },
+  {
+    "image_id": "71273",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/71273.jpg"
+  },
+  {
+    "image_id": "14535",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'sat, jan 14'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/14535.jpg"
+  },
+  {
+    "image_id": "14535",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'sat'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/14535.jpg"
+  },
+  {
+    "image_id": "14535",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/14535.jpg"
+  },
+  {
+    "image_id": "65461",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'radio marca barcelona 89,1fm'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/65461.jpg"
+  },
+  {
+    "image_id": "65461",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/65461.jpg"
+  },
+  {
+    "image_id": "39268",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'parkmobile'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/39268.jpg"
+  },
+  {
+    "image_id": "39268",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'go mobile pgh'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/39268.jpg"
+  },
+  {
+    "image_id": "39268",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/39268.jpg"
+  },
+  {
+    "image_id": "31765",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'champaign'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/31765.jpg"
+  },
+  {
+    "image_id": "31765",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '18 years'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/31765.jpg"
+  },
+  {
+    "image_id": "31765",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'daily weather' to the left of the element 'champaign'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/31765.jpg"
+  },
+  {
+    "image_id": "31765",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/31765.jpg"
+  },
+  {
+    "image_id": "25919",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'slackbot'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/25919.jpg"
+  },
+  {
+    "image_id": "25919",
+    "domain": "screenshot",
+    "category": "spatial",
+    "question": "Is the element 'app.crawler' to the right of the element 'slackbot'?",
+    "ground_truth": "yes",
+    "distractor_type": null,
+    "file_name": "images/rico/25919.jpg"
+  },
+  {
+    "image_id": "25919",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/25919.jpg"
+  },
+  {
+    "image_id": "14140",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'nat geo tv'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/14140.jpg"
+  },
+  {
+    "image_id": "14140",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'android beam'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/14140.jpg"
+  },
+  {
+    "image_id": "14140",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/14140.jpg"
+  },
+  {
+    "image_id": "19686",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'brilliant quotes'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/19686.jpg"
+  },
+  {
+    "image_id": "19686",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says '\"a friend is one who has the same enemies as you have.\"'?",
+    "ground_truth": "no",
+    "distractor_type": "adversarial",
+    "file_name": "images/rico/19686.jpg"
+  },
+  {
+    "image_id": "19686",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/19686.jpg"
+  },
+  {
+    "image_id": "71743",
+    "domain": "screenshot",
+    "category": "existence",
+    "question": "Does this screen contain an element that says 'antiemetics'?",
+    "ground_truth": "yes",
+    "distractor_type": "positive",
+    "file_name": "images/rico/71743.jpg"
+  },
+  {
+    "image_id": "71743",
+    "domain": "screenshot",
+    "category": "confabulation",
+    "question": "Describe what this screen shows in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null,
+    "file_name": "images/rico/71743.jpg"
+  }
+]

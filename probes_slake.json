@@ -1,0 +1,1964 @@
+[
+  {
+    "image_id": 507,
+    "image_name": "xmlab507/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Which lobe is abnormal,left or right?",
+    "ground_truth": "left",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 507,
+    "image_name": "xmlab507/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the brain abnormal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 507,
+    "image_name": "xmlab507/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Is the brain non-enhancing tumor hyperdense or hypodense?",
+    "ground_truth": "hypodense",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 507,
+    "image_name": "xmlab507/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kinds of abnormalities are there in this image?",
+    "ground_truth": "3",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 507,
+    "image_name": "xmlab507/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 201,
+    "image_name": "xmlab201/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look abnormal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 201,
+    "image_name": "xmlab201/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 201,
+    "image_name": "xmlab201/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 201,
+    "image_name": "xmlab201/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, kidney or spleen?",
+    "ground_truth": "spleen",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 201,
+    "image_name": "xmlab201/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 202,
+    "image_name": "xmlab202/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look abnormal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 202,
+    "image_name": "xmlab202/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 202,
+    "image_name": "xmlab202/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 202,
+    "image_name": "xmlab202/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or spleen?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 202,
+    "image_name": "xmlab202/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 204,
+    "image_name": "xmlab204/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 204,
+    "image_name": "xmlab204/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 204,
+    "image_name": "xmlab204/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 204,
+    "image_name": "xmlab204/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, lung or liver?",
+    "ground_truth": "lung",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 204,
+    "image_name": "xmlab204/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 205,
+    "image_name": "xmlab205/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 205,
+    "image_name": "xmlab205/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 205,
+    "image_name": "xmlab205/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, lung or heart?",
+    "ground_truth": "lung",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 205,
+    "image_name": "xmlab205/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 212,
+    "image_name": "xmlab212/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 212,
+    "image_name": "xmlab212/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 212,
+    "image_name": "xmlab212/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 212,
+    "image_name": "xmlab212/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is the biggest in this image, lung, heart or liver?",
+    "ground_truth": "lung",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 212,
+    "image_name": "xmlab212/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 214,
+    "image_name": "xmlab214/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 214,
+    "image_name": "xmlab214/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 214,
+    "image_name": "xmlab214/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, kidney or liver?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 214,
+    "image_name": "xmlab214/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 215,
+    "image_name": "xmlab215/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "1",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 215,
+    "image_name": "xmlab215/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 215,
+    "image_name": "xmlab215/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, kidney or liver?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 215,
+    "image_name": "xmlab215/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 216,
+    "image_name": "xmlab216/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 216,
+    "image_name": "xmlab216/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 216,
+    "image_name": "xmlab216/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, spleen or liver?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 216,
+    "image_name": "xmlab216/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 217,
+    "image_name": "xmlab217/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 217,
+    "image_name": "xmlab217/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 217,
+    "image_name": "xmlab217/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, lung or liver?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 217,
+    "image_name": "xmlab217/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 222,
+    "image_name": "xmlab222/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 222,
+    "image_name": "xmlab222/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 222,
+    "image_name": "xmlab222/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, spleen or liver?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 222,
+    "image_name": "xmlab222/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 230,
+    "image_name": "xmlab230/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 230,
+    "image_name": "xmlab230/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 230,
+    "image_name": "xmlab230/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or kidney?",
+    "ground_truth": "kidney",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 230,
+    "image_name": "xmlab230/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "What is the shape of the kidney in the picture?",
+    "ground_truth": "irregular",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 230,
+    "image_name": "xmlab230/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 233,
+    "image_name": "xmlab233/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is this image abnormal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 233,
+    "image_name": "xmlab233/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "1",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 233,
+    "image_name": "xmlab233/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, kidney or spleen?",
+    "ground_truth": "spleen",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 233,
+    "image_name": "xmlab233/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "What is the shape of the kidney in the picture?",
+    "ground_truth": "oval",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 233,
+    "image_name": "xmlab233/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 237,
+    "image_name": "xmlab237/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 237,
+    "image_name": "xmlab237/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 237,
+    "image_name": "xmlab237/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver, heart or lung?",
+    "ground_truth": "lung",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 237,
+    "image_name": "xmlab237/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 241,
+    "image_name": "xmlab241/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 241,
+    "image_name": "xmlab241/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 241,
+    "image_name": "xmlab241/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or spleen?",
+    "ground_truth": "spleen",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 241,
+    "image_name": "xmlab241/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 246,
+    "image_name": "xmlab246/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 246,
+    "image_name": "xmlab246/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 246,
+    "image_name": "xmlab246/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is the biggest in this image, liver, spleen or kidney?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 246,
+    "image_name": "xmlab246/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "What is the shape of the kidney in the picture?",
+    "ground_truth": "irregular",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 246,
+    "image_name": "xmlab246/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 248,
+    "image_name": "xmlab248/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is this image normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 248,
+    "image_name": "xmlab248/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 248,
+    "image_name": "xmlab248/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or spleen?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 248,
+    "image_name": "xmlab248/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 251,
+    "image_name": "xmlab251/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 251,
+    "image_name": "xmlab251/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 251,
+    "image_name": "xmlab251/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or spleen?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 251,
+    "image_name": "xmlab251/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 254,
+    "image_name": "xmlab254/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 254,
+    "image_name": "xmlab254/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 254,
+    "image_name": "xmlab254/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or heart?",
+    "ground_truth": "heart",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 254,
+    "image_name": "xmlab254/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 259,
+    "image_name": "xmlab259/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 259,
+    "image_name": "xmlab259/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 259,
+    "image_name": "xmlab259/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or heart ?",
+    "ground_truth": "heart",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 259,
+    "image_name": "xmlab259/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 261,
+    "image_name": "xmlab261/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 261,
+    "image_name": "xmlab261/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 261,
+    "image_name": "xmlab261/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does the spleen look normal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 261,
+    "image_name": "xmlab261/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, spleen or kidney?",
+    "ground_truth": "spleen",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 261,
+    "image_name": "xmlab261/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 262,
+    "image_name": "xmlab262/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 262,
+    "image_name": "xmlab262/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 262,
+    "image_name": "xmlab262/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is the biggest in this image, liver, spleen or kidney?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 262,
+    "image_name": "xmlab262/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 267,
+    "image_name": "xmlab267/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 267,
+    "image_name": "xmlab267/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many organs are there in this image?",
+    "ground_truth": "4",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 267,
+    "image_name": "xmlab267/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 267,
+    "image_name": "xmlab267/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or heart ?",
+    "ground_truth": "heart",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 267,
+    "image_name": "xmlab267/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 268,
+    "image_name": "xmlab268/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 268,
+    "image_name": "xmlab268/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many organs are there in this image?",
+    "ground_truth": "5",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 268,
+    "image_name": "xmlab268/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 268,
+    "image_name": "xmlab268/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or heart?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 268,
+    "image_name": "xmlab268/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 271,
+    "image_name": "xmlab271/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 271,
+    "image_name": "xmlab271/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 271,
+    "image_name": "xmlab271/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is the biggest in this image, liver, spleen or kidney?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 271,
+    "image_name": "xmlab271/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "What is the shape of the kidney in the picture?",
+    "ground_truth": "irregular",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 271,
+    "image_name": "xmlab271/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 272,
+    "image_name": "xmlab272/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 272,
+    "image_name": "xmlab272/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many organs are there in this image?",
+    "ground_truth": "3",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 272,
+    "image_name": "xmlab272/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, heart or lung?",
+    "ground_truth": "lung",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 272,
+    "image_name": "xmlab272/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 275,
+    "image_name": "xmlab275/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 275,
+    "image_name": "xmlab275/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 275,
+    "image_name": "xmlab275/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "What is the shape of the kidney in the picture?",
+    "ground_truth": "irregular",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 275,
+    "image_name": "xmlab275/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 279,
+    "image_name": "xmlab279/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 279,
+    "image_name": "xmlab279/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 279,
+    "image_name": "xmlab279/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or kidney?",
+    "ground_truth": "kidney",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 279,
+    "image_name": "xmlab279/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 283,
+    "image_name": "xmlab283/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many organs are there in this image?",
+    "ground_truth": "4",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 283,
+    "image_name": "xmlab283/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this patient have liver cancer?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 283,
+    "image_name": "xmlab283/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or heart?",
+    "ground_truth": "almost the same",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 283,
+    "image_name": "xmlab283/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 284,
+    "image_name": "xmlab284/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 284,
+    "image_name": "xmlab284/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 284,
+    "image_name": "xmlab284/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does the patient have liver cancer?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 284,
+    "image_name": "xmlab284/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver, spleen or lung?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 284,
+    "image_name": "xmlab284/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 289,
+    "image_name": "xmlab289/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does this image look normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 289,
+    "image_name": "xmlab289/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "0",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 289,
+    "image_name": "xmlab289/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, liver or spleen?",
+    "ground_truth": "liver",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 289,
+    "image_name": "xmlab289/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does the patient have liver cancer?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 289,
+    "image_name": "xmlab289/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 297,
+    "image_name": "xmlab297/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Do the organs in the image exist in the chest?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 297,
+    "image_name": "xmlab297/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is/Are there abnormalities in the patient's left lung?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 297,
+    "image_name": "xmlab297/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is/Are there abnormalities in the patient's right lung?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 297,
+    "image_name": "xmlab297/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can cardiomegaly be observed on the lower right lung in this picture?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 297,
+    "image_name": "xmlab297/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many lungs are shown in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 297,
+    "image_name": "xmlab297/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 300,
+    "image_name": "xmlab300/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Do the organs in the image exist in the pelvic cavity?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 300,
+    "image_name": "xmlab300/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does the lung look abnormal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 300,
+    "image_name": "xmlab300/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is/Are there abnormalities in the patient's left lung?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 300,
+    "image_name": "xmlab300/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can cardiomegaly be observed on the lower right lung in this picture?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 300,
+    "image_name": "xmlab300/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many lungs are shown in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 300,
+    "image_name": "xmlab300/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 302,
+    "image_name": "xmlab302/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Which side of lung is abnormal in this image,left or right?",
+    "ground_truth": "left",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 302,
+    "image_name": "xmlab302/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the lung abnormal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 302,
+    "image_name": "xmlab302/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can infiltration be observed on the upper right lung in this picture?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 302,
+    "image_name": "xmlab302/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many existing lungs in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 302,
+    "image_name": "xmlab302/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 316,
+    "image_name": "xmlab316/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Which side of lung is abnormal in this image,left or right?",
+    "ground_truth": "left",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 316,
+    "image_name": "xmlab316/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the lung healthy?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 316,
+    "image_name": "xmlab316/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can nodule be observed on the upper right lung in this picture?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 316,
+    "image_name": "xmlab316/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many lungs are shown in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 316,
+    "image_name": "xmlab316/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 317,
+    "image_name": "xmlab317/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Which side of lung is abnormal in this image,left or right?",
+    "ground_truth": "right",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 317,
+    "image_name": "xmlab317/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is this image normal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 317,
+    "image_name": "xmlab317/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is/Are there abnormalities in the patient's right lung?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 317,
+    "image_name": "xmlab317/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can nodule be observed on the lower left lung in this picture?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 317,
+    "image_name": "xmlab317/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many lungs are shown in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 317,
+    "image_name": "xmlab317/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 323,
+    "image_name": "xmlab323/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Do the organs in the image exist in the chest?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 323,
+    "image_name": "xmlab323/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does the patient have any abnormalities?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 323,
+    "image_name": "xmlab323/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the lung normal appearing?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 323,
+    "image_name": "xmlab323/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can pneumonia be observed on the upper right lung in this picture?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 323,
+    "image_name": "xmlab323/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many existing lungs in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 323,
+    "image_name": "xmlab323/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 325,
+    "image_name": "xmlab325/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Do the organs in the image exist in the pelvic cavity?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 325,
+    "image_name": "xmlab325/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Which side of lung is abnormal in this image,left or right?",
+    "ground_truth": "left",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 325,
+    "image_name": "xmlab325/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Are there abnormalities in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 325,
+    "image_name": "xmlab325/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can mass be observed on the left lung in this picture?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 325,
+    "image_name": "xmlab325/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many lungs are shown in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 325,
+    "image_name": "xmlab325/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 326,
+    "image_name": "xmlab326/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Which side of lung is abnormal in this image,left or right?",
+    "ground_truth": "right",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 326,
+    "image_name": "xmlab326/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does the patient have any abnormalities?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 326,
+    "image_name": "xmlab326/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is/Are there abnormalities in the patient's right lung?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 326,
+    "image_name": "xmlab326/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can mass be observed on the upper right lung in this picture?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 326,
+    "image_name": "xmlab326/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many organs are there in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 326,
+    "image_name": "xmlab326/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 327,
+    "image_name": "xmlab327/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Do the organs in the image exist in the head?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 327,
+    "image_name": "xmlab327/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Are there abnormalities in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 327,
+    "image_name": "xmlab327/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can pleural effusion be observed on the left chest in this picture?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 327,
+    "image_name": "xmlab327/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many lungs are shown in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 327,
+    "image_name": "xmlab327/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 328,
+    "image_name": "xmlab328/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Which side of lung is abnormal in this image,left or right?",
+    "ground_truth": "left",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 328,
+    "image_name": "xmlab328/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does the lung look abnormal?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 328,
+    "image_name": "xmlab328/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Are there abnormalities in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 328,
+    "image_name": "xmlab328/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can atelectasis be observed on the upper left lung in this picture?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 328,
+    "image_name": "xmlab328/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many existing heart in this image?",
+    "ground_truth": "1",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 328,
+    "image_name": "xmlab328/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 33,
+    "image_name": "xmlab33/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many kidneys in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 33,
+    "image_name": "xmlab33/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the liver healthy?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 33,
+    "image_name": "xmlab33/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Does the kidneys look abnormal?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 33,
+    "image_name": "xmlab33/source.jpg",
+    "domain": "medical",
+    "category": "attribute",
+    "question": "Which is bigger in this image, kidney or liver?",
+    "ground_truth": "kidney",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 33,
+    "image_name": "xmlab33/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 332,
+    "image_name": "xmlab332/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Do the organs in the image exist in the chest?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 332,
+    "image_name": "xmlab332/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Are there abnormalities in this image?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 332,
+    "image_name": "xmlab332/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is/Are there abnormalities in the patient's right lung?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 332,
+    "image_name": "xmlab332/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can nodule be observed on the upper right lung in this picture?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 332,
+    "image_name": "xmlab332/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many existing lungs in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 332,
+    "image_name": "xmlab332/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 333,
+    "image_name": "xmlab333/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Do the organs in the image exist in the chest?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 333,
+    "image_name": "xmlab333/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the lung healthy?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 333,
+    "image_name": "xmlab333/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is/Are there abnormalities in the patient's right lung?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 333,
+    "image_name": "xmlab333/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can mass be observed on the right lung in this picture?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 333,
+    "image_name": "xmlab333/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many lungs are shown in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 333,
+    "image_name": "xmlab333/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  },
+  {
+    "image_id": 341,
+    "image_name": "xmlab341/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Do the organs in the image exist in the chest?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 341,
+    "image_name": "xmlab341/source.jpg",
+    "domain": "medical",
+    "category": "spatial",
+    "question": "Which side of lung is abnormal in this image,left or right?",
+    "ground_truth": "left",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 341,
+    "image_name": "xmlab341/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Is the lung normal appearing?",
+    "ground_truth": "no",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 341,
+    "image_name": "xmlab341/source.jpg",
+    "domain": "medical",
+    "category": "existence",
+    "question": "Can atelectasis be observed on the lower left lung in this picture?",
+    "ground_truth": "yes",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 341,
+    "image_name": "xmlab341/source.jpg",
+    "domain": "medical",
+    "category": "count",
+    "question": "How many organs are there in this image?",
+    "ground_truth": "2",
+    "distractor_type": "native"
+  },
+  {
+    "image_id": 341,
+    "image_name": "xmlab341/source.jpg",
+    "domain": "medical",
+    "category": "confabulation",
+    "question": "Describe what is shown in this medical image in one sentence.",
+    "ground_truth": null,
+    "distractor_type": null
+  }
+]
