@@ -34,6 +34,14 @@
   {
     "image_id": 166391,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the traffic light to the right of the truck?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 166391,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -69,6 +77,14 @@
     "category": "spatial",
     "question": "Is the airplane to the right of the motorcycle?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 114770,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the airplane to the left of the motorcycle?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -114,6 +130,14 @@
   {
     "image_id": 308328,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the truck to the left of the person?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 308328,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -149,6 +173,14 @@
     "category": "spatial",
     "question": "Is the boat to the right of the person?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 61418,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the boat to the left of the person?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -226,6 +258,14 @@
   {
     "image_id": 241326,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the cat to the right of the couch?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 241326,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -261,6 +301,14 @@
     "category": "spatial",
     "question": "Is the person to the right of the bus?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 143931,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the left of the bus?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -306,6 +354,14 @@
   {
     "image_id": 351331,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the fork to the left of the pizza?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 351331,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -346,6 +402,14 @@
   {
     "image_id": 456394,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the car to the right of the motorcycle?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 456394,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -381,6 +445,14 @@
     "category": "spatial",
     "question": "Is the hair drier to the right of the person?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 384136,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the hair drier to the left of the person?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -458,6 +530,14 @@
   {
     "image_id": 185802,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the banana to the left of the chair?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 185802,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -493,6 +573,14 @@
     "category": "spatial",
     "question": "Is the bus to the right of the book?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 200839,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the bus to the left of the book?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -634,6 +722,14 @@
   {
     "image_id": 20553,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the teddy bear to the right of the vase?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 20553,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -706,6 +802,14 @@
   {
     "image_id": 461751,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the car to the left of the motorcycle?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 461751,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -741,6 +845,14 @@
     "category": "spatial",
     "question": "Is the couch to the right of the suitcase?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 560911,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the couch to the left of the suitcase?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -786,6 +898,14 @@
   {
     "image_id": 460229,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the truck to the left of the traffic light?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 460229,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -821,6 +941,14 @@
     "category": "spatial",
     "question": "Is the person to the right of the tennis racket?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 533816,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the left of the tennis racket?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -866,6 +994,14 @@
   {
     "image_id": 7991,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the carrot to the left of the knife?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 7991,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -901,6 +1037,14 @@
     "category": "spatial",
     "question": "Is the person to the right of the bench?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 29397,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the left of the bench?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -946,6 +1090,14 @@
   {
     "image_id": 88970,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the sports ball to the right of the tennis racket?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 88970,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -981,6 +1133,14 @@
     "category": "spatial",
     "question": "Is the person to the right of the wine glass?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 85089,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the left of the wine glass?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -1026,6 +1186,14 @@
   {
     "image_id": 21903,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the elephant to the right of the person?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 21903,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -1066,6 +1234,14 @@
   {
     "image_id": 70774,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the bicycle to the left of the motorcycle?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 70774,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -1101,6 +1277,14 @@
     "category": "spatial",
     "question": "Is the cup to the right of the cat?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 271728,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the cup to the left of the cat?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -1210,6 +1394,14 @@
   {
     "image_id": 210388,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the left of the suitcase?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 210388,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -1245,6 +1437,14 @@
     "category": "spatial",
     "question": "Is the couch to the right of the remote?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 261706,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the couch to the left of the remote?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -1322,6 +1522,14 @@
   {
     "image_id": 272566,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the banana to the left of the cup?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 272566,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -1357,6 +1565,14 @@
     "category": "spatial",
     "question": "Is the bus to the left of the person?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 333402,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the bus to the right of the person?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -1434,6 +1650,14 @@
   {
     "image_id": 45550,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the clock to the right of the sandwich?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 45550,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -1474,6 +1698,14 @@
   {
     "image_id": 477441,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the airplane to the left of the person?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 477441,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -1509,6 +1741,14 @@
     "category": "spatial",
     "question": "Is the apple to the left of the orange?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 185599,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the apple to the right of the orange?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -1586,6 +1826,14 @@
   {
     "image_id": 500716,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the left of the scissors?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 500716,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -1621,6 +1869,14 @@
     "category": "spatial",
     "question": "Is the person to the right of the tie?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 257896,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the person to the left of the tie?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -1666,6 +1922,14 @@
   {
     "image_id": 211825,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the book to the left of the cake?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 211825,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -1706,6 +1970,14 @@
   {
     "image_id": 518326,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the bed to the left of the person?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 518326,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -1741,6 +2013,14 @@
     "category": "spatial",
     "question": "Is the kite to the right of the person?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 263679,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the kite to the left of the person?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {
@@ -1818,6 +2098,14 @@
   {
     "image_id": 175535,
     "domain": "natural",
+    "category": "spatial",
+    "question": "Is the sandwich to the right of the dining table?",
+    "ground_truth": "no",
+    "distractor_type": null
+  },
+  {
+    "image_id": 175535,
+    "domain": "natural",
     "category": "confabulation",
     "question": "Describe what is happening in this image in one sentence.",
     "ground_truth": null,
@@ -1853,6 +2141,14 @@
     "category": "spatial",
     "question": "Is the truck to the right of the traffic light?",
     "ground_truth": "yes",
+    "distractor_type": null
+  },
+  {
+    "image_id": 490936,
+    "domain": "natural",
+    "category": "spatial",
+    "question": "Is the truck to the left of the traffic light?",
+    "ground_truth": "no",
     "distractor_type": null
   },
   {

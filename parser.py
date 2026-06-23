@@ -23,6 +23,18 @@ def try_forced_choice(question, response):
         return opt_a
     if b_in and not a_in:
         return opt_b
+    if a_in and b_in:
+        comp = r'(?:bigger|larger|higher|biggest|largest|more|greater|smaller|lower)'
+        adv = r'(?:\w+\s+)?'
+        a_is = bool(re.search(r'(?:the\s+)?' + re.escape(opt_a) + r'\s+is\s+' + adv + r'(?:the\s+)?' + comp, r))
+        b_is = bool(re.search(r'(?:the\s+)?' + re.escape(opt_b) + r'\s+is\s+' + adv + r'(?:the\s+)?' + comp, r))
+        if b_is and not a_is:
+            return opt_b
+        if a_is and not b_is:
+            return opt_a
+        biggest = re.search(comp + r'[^.]*?\b(' + re.escape(opt_a) + r'|' + re.escape(opt_b) + r')\b', r)
+        if biggest:
+            return biggest.group(1)
     return None
 
 
