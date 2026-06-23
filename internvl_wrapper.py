@@ -112,12 +112,6 @@ class InternVLWrapper:
             trust_remote_code=True,
             device_map="auto",
         )
-        if quantize:
-            from transformers import BitsAndBytesConfig
-            load_kwargs["quantization_config"] = BitsAndBytesConfig(
-                load_in_4bit=True,
-                bnb_4bit_compute_dtype=torch.bfloat16,
-            )
         self.model = AutoModel.from_pretrained(model_path, **load_kwargs).eval()
         self.tokenizer = AutoTokenizer.from_pretrained(
             model_path, trust_remote_code=True, use_fast=False
